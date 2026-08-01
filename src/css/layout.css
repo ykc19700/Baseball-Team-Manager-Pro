@@ -1,0 +1,9 @@
+.app-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 100vh;
+}
+
+.content {
+  padding: 20px;
+}
