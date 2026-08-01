@@ -1,24 +1,30 @@
-# ⚾ Baseball Team Manager Pro V5.2
+# ⚾ Baseball Team Manager Pro
 
-Professional baseball team management PWA.
+## Coach Edition v1.0.0
 
-## Modules
+Professional baseball team management PWA for coaches.
 
-- Player Management
-- Starting Order Management
-- Game Day
-- Smart Order AI
-- Reports
-- PWA Offline Support
+## Features
+
+- ⚾ Player Management
+- ⚾ Injury / Suspension Management
+- ⚾ Smart Starting Order AI
+- ⚾ Defensive Position Assignment
+- ⚾ Game Day Management
+- ⚾ Score Board
+- ⚾ Pitch Count Management
+- ⚾ Player Statistics
+- ⚾ PWA Offline Support
+- ⚾ GitHub Pages Deployment
 
 ## Technology
 
 - HTML5
 - CSS3
 - JavaScript ES Modules
-- Vite
+- LocalStorage
 - Progressive Web App
 
-## Development
+## Version
 
-Version 5.2 Ultimate Coach Edition
+v1.0.0 Coach Edition
