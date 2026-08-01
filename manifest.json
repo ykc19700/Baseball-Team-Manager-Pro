@@ -1,0 +1,8 @@
+{
+  "name": "Baseball Team Manager Pro",
+  "short_name": "BTM Pro",
+  "start_url": "./",
+  "display": "standalone",
+  "lang": "zh-TW",
+  "description": "棒球隊管理系統 PWA"
+}
